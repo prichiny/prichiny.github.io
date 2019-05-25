@@ -1,7 +1,7 @@
 ---
-layout: mining-category
+layout: simptomy-category
 title: Новости Блокчейна и Криптовалют - самые Важные (сегодня)
-permalink: /mining/
+permalink: /simptomy/
 ---
 
 
