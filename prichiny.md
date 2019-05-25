@@ -1,13 +1,13 @@
 ---
-layout: news-category
+layout: prichiny-category
 title: Новости Блокчейна и Криптовалют - самые Важные (сегодня)
-permalink: /news/
+permalink: /prichiny/
 ---
 
 
 
 <div class="posts">
-{% for post in site.categories.News %}
+{% for post in site.categories.Prichiny %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
