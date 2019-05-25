@@ -1,9 +1,13 @@
 ---
-layout: home
+layout: mining-category
+title: Новости Блокчейна и Криптовалют - самые Важные (сегодня)
+permalink: /mining/
 ---
 
+
+
 <div class="posts">
-  {% for post in site.posts %}
+{% for post in site.categories.Mining %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
@@ -16,3 +20,4 @@ layout: home
     </article>
   {% endfor %}
 </div>
+
