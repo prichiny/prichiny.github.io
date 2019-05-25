@@ -1,13 +1,13 @@
 ---
-layout: hajpy-category
+layout: pitanie-category
 title: Программы Блокчейна и Криптовалют - самые Важные (сегодня)
-permalink: /hajpy/
+permalink: /pitanie/
 ---
 
 
 
 <div class="posts">
-{% for post in site.categories.Hajpy %}
+{% for post in site.categories.Pitanie %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
