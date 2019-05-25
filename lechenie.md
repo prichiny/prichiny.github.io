@@ -1,13 +1,13 @@
 ---
-layout: programmy-category
+layout: lechenie-category
 title: Программы Блокчейна и Криптовалют - самые Важные (сегодня)
-permalink: /programmy/
+permalink: /lechenie/
 ---
 
 
 
 <div class="posts">
-{% for post in site.categories.Programmy %}
+{% for post in site.categories.Lechenie %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
