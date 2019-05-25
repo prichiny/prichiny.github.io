@@ -1,13 +1,13 @@
 ---
 layout: simptomy-category
-title: Новости Блокчейна и Криптовалют - самые Важные (сегодня)
+title: заголовок
 permalink: /simptomy/
 ---
 
 
 
 <div class="posts">
-{% for post in site.categories.Mining %}
+{% for post in site.categories.Simptomy %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
