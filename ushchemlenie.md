@@ -1,13 +1,13 @@
 ---
-layout: novichku-category
+layout: ushchemlenie-category
 title: Программы Блокчейна и Криптовалют - самые Важные (сегодня)
-permalink: /novichku/
+permalink: /ushchemlenie/
 ---
 
 
 
 <div class="posts">
-{% for post in site.categories.Novichku %}
+{% for post in site.categories.Ushchemlenie %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
