@@ -192,8 +192,8 @@ img {
 .wrapper-masthead {
   margin-bottom: 50px;
   border-bottom: 1px solid #ddd;
- background: rgb(66,144,213);
-background: linear-gradient(186deg, rgba(66,144,213,1) 51%, rgba(0,212,255,1) 100%); 
+background: rgb(66,144,213);
+background: linear-gradient(180deg, rgba(66,144,213,1) 50%, rgba(0,212,255,0) 100%); 
 }
 
 .masthead {
