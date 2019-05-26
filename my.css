@@ -193,7 +193,7 @@ img {
   margin-bottom: 50px;
   border-bottom: 1px solid #ddd;
 background: rgb(66,144,213);
-background: linear-gradient(180deg, rgba(66,144,213,1) 50%, rgba(0,212,255,1) 100%);
+background: linear-gradient(180deg, rgba(66,144,213,1) 35%, rgba(0,212,255,1) 100%);
     box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23); 
 }
 
