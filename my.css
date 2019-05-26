@@ -190,11 +190,11 @@ img {
 /* LAYOUT / SECTIONS */
 /*********************/
 .wrapper-masthead {
-  margin-bottom: 50px;
-  border-bottom: 1px solid #ddd;
-background: rgb(66,144,213);
-background: linear-gradient(180deg, rgba(66,144,213,1) 35%, rgba(0,212,255,1) 100%);
-    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23); 
+margin-bottom: 50px;
+    border-bottom: 1px solid #ddd;
+    background: rgb(66,144,213);
+    background: linear-gradient(180deg, rgb(30, 65, 106) 35%, rgb(226, 239, 236) 100%);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 }
 
 .masthead {
@@ -232,7 +232,7 @@ background: linear-gradient(180deg, rgba(66,144,213,1) 35%, rgba(0,212,255,1) 10
 
 .site-name {
   margin: 0;
-  color: #333;
+  color: #f1f2ef;
   cursor: pointer;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 300;
