@@ -1,6 +1,6 @@
 ---
 layout: lechenie-category
-title: Программы Блокчейна и Криптовалют - самые Важные (сегодня)
+title: Лечение болей в пояснице
 permalink: /lechenie/
 ---
 
