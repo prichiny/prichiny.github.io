@@ -46,4 +46,4 @@ permalink: /about/
 
 ### Связаться с нами
 
-[email@domain.com](mailto:email@domain.com)
+[mains.companies@gmail.com](mailto:mains.companies@gmail.com)
