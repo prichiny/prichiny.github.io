@@ -266,6 +266,7 @@ nav {
   }
 }
 nav a {
+    /* margin-left: 20px; */
     color: #003253;
     text-align: right;
     font-weight: 300;
@@ -273,6 +274,8 @@ nav a {
     font-weight: 700;
     background-color: #fdfdfd;
     padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 15px;
 }
 @media screen and (max-width: 640px) {
   nav a {
