@@ -778,6 +778,7 @@ margin: 0 auto;
     position: relative;
     top: 7px;
     margin: 0 auto;
+	display: block;
 }
 
 @media all and (min-width:300px) and (max-width:1279px){
