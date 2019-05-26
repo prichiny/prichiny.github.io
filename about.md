@@ -41,7 +41,7 @@ permalink: /about/
 <img src="/images/about/ureva.jpg" alt="Юрьева" class="sdb-img">
 **Юрьева Надежда Ивановна** -  учащийся ВУза 4-го курса СЗГМУ им. И.И. Мечникова. Профессия - Медико-профилактическое дело.
 
-<img src="/images/about/ureva.jpg" alt="Юрьева" class="sdb-img">
+<img src="/images/about/polovinkin.jpg" alt="Половинкин" class="sdb-img">
 **Половинкин Николай Алексеевич** -  Врач скорой помощи, терапевт. Стаж 2 года.
 
 ### Связаться с нами
