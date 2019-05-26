@@ -19,29 +19,29 @@ permalink: /about/
 При описании заболеваний наши работники полагаются не только лишь  на базисные абстрактные познания и личный практический навык, но и на свежайшие работы, публикуемые в научных мед публикациях.
 
 ### Сотрудники
-<img src="/images/about/kostenko.jpg" alt="Костенко" class="sdb-img">
+<img src="/images/about/kostenko.jpg" alt="Костенко" class="sdb-img2">
 **Селизов Владимир Васильевич** - высочайшая квалификационная категория по вертебрологии.
  Зав.вертебрологическим центром ГКБ "Воронежская городская клиническая больница № 11, стационар".
  
- <img src="/images/about/sastripcin.jpg" alt="Састрпцин" class="sdb-img">
+ <img src="/images/about/sastripcin.jpg" alt="Састрпцин" class="sdb-img2">
 **Састрпцин Антон Михайлович** - невропатолог, сертифицированный консультант по ГВ ВОЗ\ЮНИСЕФ, начальник невропатолог  центра.
 
 
-<img src="/images/about/rusak.jpg" alt="Русак" class="sdb-img">
+<img src="/images/about/rusak.jpg" alt="Русак" class="sdb-img2">
 **Русак Ирина Юрьевна** - Мануальный терапевт, остеопат, рефлексотерапевт. Стаж 35 лет. Категории: сертифицированный профессионал по остеопатии. 
 
-<img src="/images/about/chernobay.jpg" alt="Чернобай" class="sdb-img">
+<img src="/images/about/chernobay.jpg" alt="Чернобай" class="sdb-img2">
 **Чернобай Сергей Львович** - мануальный терапевт, остеопат, терапевт, физиотерапевт
 Стаж 43 года, д.м.н.
 
-<img src="/images/about/zdor.jpg" alt="Здор" class="sdb-img">
+<img src="/images/about/zdor.jpg" alt="Здор" class="sdb-img2">
 **Здор Александр Анатольевич** -  доктор невролог высочайшей категории, рефлексотерапевт
 Стаж 36 лет, высшая категория. Заведующий Центром клинической неврологии 
 
-<img src="/images/about/toporkova.jpg" alt="Топоркова" class="sdb-img">
+<img src="/images/about/toporkova.jpg" alt="Топоркова" class="sdb-img2">
 **Топоркова Ольга Вадимовна** -  учащийся ВУза 4-го курса СЗГМУ им. И.И. Мечникова. Профессия - Медико-профилактическое дело.
 
-<img src="/images/about/polovinkin.jpg" alt="Половинкин" class="sdb-img">
+<img src="/images/about/polovinkin.jpg" alt="Половинкин" class="sdb-img2">
 **Половинкин Николай Алексеевич** -  Врач скорой помощи, терапевт. Стаж 2 года.
 
 ### Связаться с нами
