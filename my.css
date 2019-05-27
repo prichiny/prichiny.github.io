@@ -236,11 +236,7 @@ margin-bottom: 50px;
   letter-spacing: 1px;
 }
 
-.site-description {
-  margin: -5px 0 0 0;
-  color: #666;
-  font-size: 16px;
-}
+
 @media screen and (max-width: 640px) {
   .site-description {
     margin: 3px 0;
@@ -718,7 +714,7 @@ font-family: 'Playfair Display', serif;
 }
 
 .site-description {
-    margin: 25px 0px 0 0;
+margin: 19px 0px 0 0;
     color: #fdfdfd;
     font-size: 16px;
 }
