@@ -715,9 +715,10 @@ font-size:19px;
     font-family: 'Playfair Display', serif;
     font-size: 33px;
     transform: scaleY(1.8);
-    line-height: 7px;
+    line-height: 0px;
     word-break: break-all;
     font-weight: 700;
+    margin: 5px 0 0 0;
 }
 
 .site-description {
