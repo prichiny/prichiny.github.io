@@ -191,17 +191,12 @@ img {
 /*********************/
 .wrapper-masthead {
 margin-bottom: 50px;
-    border-bottom: 1px solid #ddd;
     background: rgb(66,144,213);
     background: linear-gradient(180deg, #1e416a 38%, #315f98 100%);
     box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 }
 
-@media screen and (max-width: 640px) {
-  .masthead {
-    text-align: center;
-  }
-}
+
 
 .site-avatar {
   float: left;
@@ -245,7 +240,7 @@ margin-bottom: 50px;
 
 nav {
     float: right;
-    margin-top: 10px;
+    margin-top: 12px;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 18px;
 }
@@ -780,6 +775,12 @@ margin: 0 auto;
     top: 7px;
     margin: 0 auto;
 	display: block;
+}
+
+@media screen and (max-width: 640px) {
+  .masthead {
+    text-align: center;
+  }
 }
 
 @media all and (min-width:300px) and (max-width:1279px){
