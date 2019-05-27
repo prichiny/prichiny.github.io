@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{% if page.title %}{{ page.title }} {% endif %}</title>
+
+      {% include meta.html %}
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+<link rel="shortcut icon" type="image/png" href="/images/favicon-16x16.png">
+
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Noto+Serif" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Yeseva+One" rel="stylesheet">
+<link type="text/css" rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" media="all" />
+
+
+<link rel="stylesheet" href="/css/global.base.css">
+<link rel="stylesheet" href="/css/global.styles.css">
+<link rel="stylesheet" href="/css/at.layout.css">
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/my.css" />
+<meta name="yandex-verification" content="dd1bed553bf30abe" />
+  </head>
+
+  <body>
+
+    <div class="wrapper-masthead">
+
+      <div class="nav-container">
+        <header class="masthead clearfix">
+          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+
+          <div class="site-info">
+            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+            <p class="site-description">{{ site.description }}</p>
+          </div>
+
+          <nav class="mobile-menu">
+            <a href="{{ site.baseurl }}/simptomy">Симптомы</a>
+            <a href="{{ site.baseurl }}/prichiny">Причины</a>
+            <a href="{{ site.baseurl }}/lechenie">Лечение</a>
+            <a href="{{ site.baseurl }}/faktory">Факторы</a>
+            <a href="{{ site.baseurl }}/pitanie">Питание</a>
+            <a href="{{ site.baseurl }}/ushchemlenie">Ущемления</a>
+			<a href="{{ site.baseurl }}/uprazhneniya">Упражнения</a>	
+			<a href="{{ site.baseurl }}/video">Видео</a>	
+          </nav>
+        </header>
+      </div>
+    </div>
+
+    <div id="main" role="main" class="container">
+      {{ content }}
+    </div>
+
+    <div class="wrapper-footer">
+        <footer class="footer">	
+	<div class="pre-foot foo-cont">
+
+	<!-- КРИПТО-БЛОГ -->
+
+	</div>	
+
+<div class="post-foot">	
+<a href="https://prichiny.github.io/about">Об Авторах</a>
+
+<div class="foo-cont">	  
+
+
+	<span>Все права принадлежат авторам. Копирование без указания источника запрещено. <br>(ГК РФ Статья 1259. Объекты авторских прав) © 2019
+	</span>
+	
+        </footer>
+
+</div>
+</div>
+      <div class="foot-container">
+    </div>
+    </div>
+	{% include metrica.html %}
+    {% include analytics.html %}
+
+<script src="/js/jquery-3.4.1.min.js"></script>
+{% include lightbox.html %}
+  </body>
+</html>
