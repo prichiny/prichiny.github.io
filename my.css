@@ -750,9 +750,7 @@ margin: 0 auto;
 	    margin: 20px 0px;
 }	
 .entry > p > em {
-    color: #545454;
-	font-size: 21px;
-	line-height: 1;
+color: #af1f1f;
 }	
 #main .entry > p > strong > em {
     border-left: 2px solid #146cab;
