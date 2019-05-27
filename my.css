@@ -248,10 +248,10 @@ margin-bottom: 50px;
 }
 
 nav {
-  float: right;
-  margin-top: 23px;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 18px;
+    float: right;
+    margin-top: 10px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 18px;
 }
 @media screen and (max-width: 640px) {
   nav {
