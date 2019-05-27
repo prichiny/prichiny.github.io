@@ -751,7 +751,7 @@ margin: 0 auto;
 }	
 .entry > p > em {
 color: #18434e;
-    text-shadow: 1px 1px 1px #ddd;
+text-shadow: 1px 0px 0px #a2a2a2;
 }	
 #main .entry > p > strong > em {
     border-left: 2px solid #146cab;
