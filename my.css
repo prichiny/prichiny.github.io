@@ -197,10 +197,6 @@ margin-bottom: 50px;
     box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 }
 
-.masthead {
-  padding: 20px 0;
-
-}
 @media screen and (max-width: 640px) {
   .masthead {
     text-align: center;
@@ -712,13 +708,13 @@ font-size:19px;
 
 
 .site-name {
-    font-family: 'Playfair Display', serif;
-    font-size: 33px;
+font-family: 'Playfair Display', serif;
+    font-size: 17px;
     transform: scaleY(1.8);
     line-height: 0px;
     word-break: break-all;
     font-weight: 700;
-    margin: 5px 0 0 0;
+    margin: 10px 0 0 0;
 }
 
 .site-description {
@@ -730,9 +726,8 @@ font-size:19px;
 border-bottom: 1px solid #ddd;
 }
 .nav-container {
-	    margin: 0 auto;
-    max-width: 930px;
-	
+    margin: 0 auto;
+    max-width: 1225px;
     padding: 0 10px;
     width: 100%;
 	
@@ -752,7 +747,7 @@ margin: 0 auto;
 }
 
 .masthead {
-    padding: 20px 0;
+    padding: 5px 0;
 }
 
 .post {
