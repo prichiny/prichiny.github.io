@@ -23,7 +23,7 @@ layout: home
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; ← </a>
   {% else %}
-    <span>&laquo; Предыдущая</span>
+    <span>&laquo; </span>
   {% endif %}
 
   {% for page in (1..paginator.total_pages) %}
@@ -39,7 +39,7 @@ layout: home
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"> → &raquo;</a>
   {% else %}
-    <span>Следующая &raquo;</span>
+    <span> &raquo;</span>
   {% endif %}
 </div>
 {% endif %}
