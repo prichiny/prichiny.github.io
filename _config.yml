@@ -62,7 +62,7 @@ version: v1.2.0
 
 
 ## my
-plugins: [jekyll-paginate]
+
 paginate: 5
 paginate_path: /page:num/
 
@@ -93,3 +93,5 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+plugins: [jekyll-paginate]
