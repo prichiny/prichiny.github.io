@@ -63,6 +63,8 @@ version: v1.2.0
 
 ## my
 plugins: [jekyll-paginate]
+paginate: 6
+paginate_path: /page:num/
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
