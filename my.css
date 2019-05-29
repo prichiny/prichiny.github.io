@@ -793,7 +793,10 @@ text-shadow: 1px 0px 0px #a2a2a2;
 .pagination {
     text-align: center;
  }
- 
+ a.current {
+    cursor: default;
+    color: #000;
+}
  .pager{padding-left:0;margin:20px 0;text-align:center;list-style:none}
 .pager:before,.pager:after{display:table;content:" "}.pager:after{clear:both}
 .pager:before,.pager:after{display:table;content:" "}
