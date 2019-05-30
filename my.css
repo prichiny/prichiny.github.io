@@ -288,9 +288,20 @@ nav a {
     box-sizing: border-box;
     border-radius: 7px;
 }
-.post .comments {
-  margin-top: 10px;
+.comments {
+text-align: center;
+    background: #ffff;
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0.15);
+    border: 1px solid #cdcdcd;
+    border-radius: 10px;
+    font-size: 24px;
+    color: #222;
+    font-weight: bold;
+    line-height: 1.7;
+    margin: 1em 0 15px;
+    padding: 0;
 }
+.comm-go {padding:20px 0;}
 .post .read-more {
   text-transform: uppercase;
   font-size: 15px;
